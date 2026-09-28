@@ -1,6 +1,39 @@
+# KiCad
 *-backups/
 *.bak
 *.kicad_prl
 fp-info-cache
 _autosave-*
+*-rescue.lib
+*-rescue.dcm
 *.tmp
+*.kicad_pcb-bak
+*.sch-bak
+
+# Altium
+History/
+__Previews/
+Project Logs*/
+*.PcbDocPreview
+*.SchDocPreview
+
+# EasyEDA / general EDA junk
+*.log
+*.swp
+~$*
+
+# STM32CubeIDE / Eclipse build output
+Debug/
+Release/
+.metadata/
+*.o
+*.d
+*.elf
+*.map
+*.su
+*.cyclo
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
