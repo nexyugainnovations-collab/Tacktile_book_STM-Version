@@ -2,8 +2,5 @@
 *.bak
 *.kicad_prl
 fp-info-cache
-*-cache.lib
-*-rescue.lib
-*-rescue.dcm
 _autosave-*
 *.tmp
